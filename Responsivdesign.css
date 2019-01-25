@@ -1,18 +1,24 @@
+
 section {
     float: left;
     width: 75%;
-    
+    border-radius: 50%;
+    background-color: #ffe866;
 }
+
+
 aside {
     float:right;
     width: 25%;
     height: 100%;
     background-color: rgb(217, 217, 217);
-    
 }
+
 h2 {
     text-align: center;
+
 }
+
 h3 {
     text-align: center;
 }
@@ -28,7 +34,7 @@ p {
     display: table;
 }
 table {
-    background-color: hsl(0, 0%, 83%);
+    background-color: hsl(195, 100%, 75%);
     width: 100%;
 }
 img {
